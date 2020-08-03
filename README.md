@@ -1,4 +1,4 @@
-# Star Wars Repo
+# StarWarsRepo
 
 ![alt text](https://github.com/gdcodedev/StarWarsRepo/blob/master/tiefighter1.png?raw=true)
 
