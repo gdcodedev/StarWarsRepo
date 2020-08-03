@@ -1,6 +1,6 @@
 # Star Wars Repo
 
-![Tie Fighter] (https://iconscout.com/icon/tie-fighter)
+![alt text] (https://github.com/gdcodedev/StarWarsRepo/blob/master/tiefighter.png?raw=true)
 
 Este repositório serve de exemplo para o curso de Git e Github.
 
